@@ -15,6 +15,7 @@ export const accessibilityCollection = {
 							["Abilitynet - Why Accessibility Matters", "https://www.abilitynet.org.uk/why-accessibility-matters"],
 							["Udacity - Web Accessibility", "https://www.udacity.com/course/web-accessibility--ud891"],
 							["Youtube - Headings, Landmarks, and Tabs", "https://www.youtube.com/watch?v=HE2R86EZPMA"],
+							["Accessing hardware devices on the web", "https://web.dev/devices-introduction/"],
 						]
 					}
 				},
